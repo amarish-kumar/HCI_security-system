@@ -170,3 +170,24 @@ I:\6.SEMESTAR\HCI\HCI2012PZ7E13080_drugi\HCI2012PZ7E13080\obj\x86\Debug\Generate
 I:\6.SEMESTAR\HCI\HCI2012PZ7E13080_drugi\HCI2012PZ7E13080\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\HCI2012PZ7E13080_drugi\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.exe
 C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\HCI2012PZ7E13080_drugi\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\bin\Debug\HCI2012PZ7E13080.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\bin\Debug\HCI2012PZ7E13080.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.AngazZap.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Brisanje.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.BrisZap.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.DodavanjeKlijenta.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.DodavanjeZaposlenog.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Filter.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.OslobZap.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Grupa1.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.IzmenaKlijenta.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.IzmenaZaposlenog.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Pocetna.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Pregled_zaposlenih.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Pregled.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.SpisakKlijenata.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\HCI_security system\HCI2012PZ7E13080\obj\x86\Debug\HCI2012PZ7E13080.csproj.GenerateResource.Cache
